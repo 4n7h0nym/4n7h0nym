@@ -1,4 +1,4 @@
-# Salut, moi c'est Anthony ! 👋
+# Salut, moi c'est Anthony !
 
 Étudiant en **Technique de l'informatique (Développement logiciel)** au Cégep de Saint-Hyacinthe. Passionné par la programmation orientée objet, le développement Web, les environnements Linux et l'auto-hébergement.
 
@@ -24,24 +24,24 @@
 
 ---
 
-## 🚀 Projets vedettes
+## Projets vedettes
 
-### 🧊 [Moteur 3D & Clone de Minecraft](https://github.com/ton-nom-utilisateur/projet-minecraft)
+### [Moteur 3D & Clone de Minecraft](https://github.com/CegepSTH/HorizonMC)
 * **Stack :** C++ | OpenGL / Gestion mémoire | Git
 * Conception et développement d'un monde en blocs 3D orienté objet.
 * Implémentation de la logique de jeu, de la gestion du rendu et de la mémoire.
 
-### 🌐 [Jeux Web Interactifs – Blackjack & Cherche et Trouve](https://github.com/ton-nom-utilisateur/projets-web)
+### [Jeux Web Interactifs – Blackjack & Cherche et Trouve](https://github.com/4n7h0nym/Projets-web)
 * **Stack :** JavaScript | HTML5 | CSS3
 * Création d'applications Web interactives avec manipulation dynamique du DOM et gestion d'état.
 
-### 🖥️ [Serveur Domestique & Homelab](https://github.com/ton-nom-utilisateur/homelab-config)
+### [Serveur Domestique & Homelab](https://github.com/4n7h0nym/Config-homelab)
 * **Stack :** Linux | Docker | Portainer | SSH
 * Déploiement et administration d'un serveur Linux personnel hébergeant divers services conteneurisés sous Docker.
 
 ---
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TON-NOM-UTILISATEUR&show_icons=true&theme=tokyonight" alt="Stats GitHub d'Anthony" />
@@ -49,7 +49,7 @@
 
 ---
 
-## 📬 Me contacter
+## Me contacter
 
 * **Courriel :** [laforest.anthony@hotmail.com](mailto:laforest.anthony@hotmail.com)
-* **LinkedIn :** [linkedin.com/in/anthony-laforest](https://linkedin.com/in/anthony-laforest) *(Remplace par ton lien)*
+* **LinkedIn :** [linkedin.com/in/anthony-laforest](www.linkedin.com/in/anthony-laforest-08b65531a)
