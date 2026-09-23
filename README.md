@@ -4,7 +4,7 @@ Je suis un étudiant en **Technique de l'informatique (Développement logiciel)*
 
 ---
 
-## 🛠️ Compétences techniques
+## Compétences techniques
 
 **Langages de programmation**
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -41,7 +41,7 @@ Je suis un étudiant en **Technique de l'informatique (Développement logiciel)*
 
 ---
 
-## **[Télécharger mon C.V. (PDF)](./CV_Anthony - Git.pdf)**
+## [Télécharger mon C.V. (PDF)](./CV_Anthony - Git.pdf)
 
 ## Me contacter
 
