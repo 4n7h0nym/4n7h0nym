@@ -1,3 +1,5 @@
+[![English](https://img.shields.io/badge/Language-English-blue.svg)](./README_EN.md)
+
 # Anthony Laforest
 
 Je suis un étudiant en **Technique de l'informatique (Développement logiciel)** au Cégep de Saint-Hyacinthe. Je suis passionné par la programmation orientée objet, le développement Web, les environnements Linux et l'auto-hébergement.
