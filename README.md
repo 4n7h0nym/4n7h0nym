@@ -41,7 +41,7 @@ Je suis un étudiant en **Technique de l'informatique (Développement logiciel)*
 
 ---
 
-## [Télécharger mon C.V. (PDF)](./CV_Anthony - Git.pdf)
+## [Télécharger mon C.V. (PDF)](./CV_Anthony-Git.pdf)
 
 ## Me contacter
 
