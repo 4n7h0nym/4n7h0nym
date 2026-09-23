@@ -1,6 +1,6 @@
-# Salut, moi c'est Anthony !
+# Anthony Laforest
 
-Étudiant en **Technique de l'informatique (Développement logiciel)** au Cégep de Saint-Hyacinthe. Passionné par la programmation orientée objet, le développement Web, les environnements Linux et l'auto-hébergement.
+Je suis un étudiant en **Technique de l'informatique (Développement logiciel)** au Cégep de Saint-Hyacinthe. Je suis passionné par la programmation orientée objet, le développement Web, les environnements Linux et l'auto-hébergement.
 
 ---
 
@@ -41,13 +41,7 @@
 
 ---
 
-## Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON-NOM-UTILISATEUR&show_icons=true&theme=tokyonight" alt="Stats GitHub d'Anthony" />
-</p>
-
----
+## **[Télécharger mon C.V. (PDF)](./CV_Anthony - Git.pdf)**
 
 ## Me contacter
 
